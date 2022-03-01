@@ -1,0 +1,2 @@
+# Modifie par lot la catégorie de poste (user_job_category) de comptes utilisateurs Alma
+Le programme parcourt un répertoire contenant des fichiers listant les primary id des comptes à modifier. Les fichiers doivent être nommées ainsi [code institution]_[catégorie de poste].csv
